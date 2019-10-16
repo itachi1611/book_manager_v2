@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Thu Oct 17 00:04:00 ICT 2019
+0.baseType=DIRECTORY
+0.base=D\:\\Documents\\Android\\bookmanager-master\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+0.path=classes.dex
+0.set=DEX
+count=1

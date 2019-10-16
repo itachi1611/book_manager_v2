@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Quản lý sách</string>
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <!--Activity Login-->
+    <string name="notify_empty_user">Yêu cầu nhập liệu</string>
+    <string name="notify_empty_pass">Yêu cầu nhập liệu</string>
+    <string name="notify_length_user">Yêu cầu phải từ 6 kí tự trở lên</string>
+    <string name="notify_length_pass">Phải nhập trên 6 kí tự</string>
+    <string name="notify_wrong_username_password">Sai tên đăng nhập hoặc mật khẩu!</string>
+    <string name="title_list_user_act">Người Dùng</string>
+    <!--Activity User-->
+    <string name="notify_max_bill_id">Mã hóa đơn tối đa 8 kí tự!!!</string>
+    <string name="tv_save_password">Lưu mật khẩu?</string>
+    <string name="tv_login">Đăng nhập</string>
+    <string name="tv_fogot_password">Quên mật khẩu?</string>
+    <string name="tv_notify_acc">Bạn chưa có tài khoản?</string>
+    <string name="tv_phone_number">Số điện thoại</string>
+    <!--Activity User-->
+    <string name="tv_wel">Xin Chào!</string>
+    <string name="tv_mes">Vui lòng đăng nhập hoặc đăng kí để sử dụng ứng dụng</string>
+    <string name="tv_email">tiennvph06776@fpt.edu.vn</string>
+    <string name="tv_cancel">Hủy</string>
+    <string name="tv_add">Thêm</string>
+    <string name="tv_add_style_book">THÊM THỂ LOẠI</string>
+    <string name="tv_edit_info">CHỈNH SỬA THÔNG TIN</string>
+    <string name="tv_fullname">Họ và tên</string>
+    <string name="tv_total">Tổng tiền:</string>
+    <string name="tv_edit">Sửa</string>
+    <string name="tv_bill">Mã hóa đơn</string>
+    <string name="tv_bill_code">Mã hóa đơn</string>
+    <string name="tv_change_password">Đổi mật khẩu</string>
+    <string name="tv_old_password">Mật khẩu cũ</string>
+    <string name="tv_new_password">Mật khẩu mới</string>
+    <string name="tv_re_new_password">Nhập lại mật khẩu mới</string>
+    <string name="tv_creact">Tạo tài khoản mới?</string>
+    <!--ActivityCreat-->
+    <string name="prompt_email">Tài khoản</string>
+    <string name="prompt_password">Mật khẩu</string>
+    <string name="action_sign_in">Đăng nhập</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email</string>
+    <!--List activity -->
+    <string name="tv_user">Người dùng</string>
+    <string name="title_activity_list">ListActivity</string>
+    <string name="tv_welcom">Xin Chào!</string>
+    <string name="tv_tile">Vui lòng nhập đầy đủ thông tin.</string>
+    <string name="tv_rememberpass">Lưu mật khẩu</string>
+    <string name="tv_forgotpass">Quên mật khẩu?</string>
+    <string name="tv_notuser">Bạn chưa có tài khoản ?   Đăng kí</string>
+    <string name="title_activity_register">Register</string>
+    <string name="tv_register">Đăng ký</string>
+    <string name="re_password">Nhập lại mật khẩu</string>
+    <string name="tv_agree">Tôi đồng ý với các điều khoản</string>
+    <string name="tv_haveuser">Bạn đã có tài khoản ?   Đăng nhập</string>
+    <string name="title_activity_forget_user">Quên mật khẩu</string>
+</resources>
